@@ -1,0 +1,5 @@
+Abstraction02.Shape
+Abstraction02.Circle
+Abstraction02.Rectiangel
+Abstraction02.Triangel
+Abstraction02.Rectiangle_Triangel_Circle
